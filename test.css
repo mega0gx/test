@@ -81,7 +81,7 @@ img{
     top: 255px;
     margin: 10px;
 }
-pre{
+.pre{
     text-transform: capitalize;
     color: #0000005e;
     position: relative;
