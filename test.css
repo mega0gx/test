@@ -81,11 +81,19 @@ img{
     top: 255px;
     margin: 10px;
 }
+<<<<<<< HEAD
 pre{
+=======
+.pre{
+>>>>>>> b7de7348551ea8dd3aaed8b3d98b720f6210e176
     text-transform: capitalize;
     color: #0000005e;
     position: relative;
     top: 250px;
     left: -100px;
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b7de7348551ea8dd3aaed8b3d98b720f6210e176
